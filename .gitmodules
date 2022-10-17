@@ -1,0 +1,6 @@
+[submodule "oohub-fe"]
+	path = oohub-fe
+	url = https://github.com/CNU-OOHub/oohub-fe.git
+[submodule "oohub-be"]
+	path = oohub-be
+	url = https://github.com/CNU-OOHub/oohub-be.git
